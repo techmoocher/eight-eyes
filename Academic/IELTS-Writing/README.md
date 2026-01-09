@@ -4,17 +4,17 @@ This folder contains modular workflows for IELTS Academic Writing (target Band 8
 
 ## Structure
 
-- Index and principles: [Academic/IELTS-Writing/IELTS-Writing.md](Academic/IELTS-Writing/IELTS-Writing.md)
+- Index and principles: [IELTS-Writing.md](IELTS-Writing.md)
 - Task 1 (visuals/processes/maps):
-  - Planning: [Academic/IELTS-Writing/Task-1/brainstorm-outline.md](Academic/IELTS-Writing/Task-1/brainstorm-outline.md)
-  - Draft critique: [Academic/IELTS-Writing/Task-1/evaluate-improve.md](Academic/IELTS-Writing/Task-1/evaluate-improve.md)
-  - Language focus: [Academic/IELTS-Writing/Task-1/vocab-grammar.md](Academic/IELTS-Writing/Task-1/vocab-grammar.md)
-  - Models + rationale: [Academic/IELTS-Writing/Task-1/samples-rationale.md](Academic/IELTS-Writing/Task-1/samples-rationale.md)
+  - Planning: [Task-1/Brainstorm-Outline.md](Task-1/Brainstorm-Outline.md)
+  - Draft critique: [Task-1/Evaluate-Improve.md](Task-1/Evaluate-Improve.md)
+  - Language focus: [Task-1/Vocab-Grammar.md](Task-1/Vocab-Grammar.md)
+  - Models + rationale: [Task-1/Samples-Rationale.md](Task-1/Samples-Rationale.md)
 - Task 2 (essays):
-  - Planning: [Academic/IELTS-Writing/Task-2/brainstorm-outline.md](Academic/IELTS-Writing/Task-2/brainstorm-outline.md)
-  - Draft critique: [Academic/IELTS-Writing/Task-2/evaluate-improve.md](Academic/IELTS-Writing/Task-2/evaluate-improve.md)
-  - Language focus: [Academic/IELTS-Writing/Task-2/vocab-grammar.md](Academic/IELTS-Writing/Task-2/vocab-grammar.md)
-  - Models + rationale: [Academic/IELTS-Writing/Task-2/samples-rationale.md](Academic/IELTS-Writing/Task-2/samples-rationale.md)
+  - Planning: [Task-2/Brainstorm-Outline.md](Task-2/Brainstorm-Outline.md)
+  - Draft critique: [Task-2/Evaluate-Improve.md](Task-2/Evaluate-Improve.md)
+  - Language focus: [Task-2/Vocab-Grammar.md](Task-2/Vocab-Grammar.md)
+  - Models + rationale: [Task-2/Samples-Rationale.md](Task-2/Samples-Rationale.md)
 
 ## How to use
 
