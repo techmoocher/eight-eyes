@@ -12,17 +12,17 @@
 
 ### Task 1 (Academic)
 
-- Brainstorm & Outline: [Academic/IELTS-Writing/Task-1/brainstorm-outline.md](Academic/IELTS-Writing/Task-1/brainstorm-outline.md)
-- Evaluate & Improve: [Academic/IELTS-Writing/Task-1/evaluate-improve.md](Academic/IELTS-Writing/Task-1/evaluate-improve.md)
-- Vocabulary & Grammar: [Academic/IELTS-Writing/Task-1/vocab-grammar.md](Academic/IELTS-Writing/Task-1/vocab-grammar.md)
-- Writing Samples & Rationale: [Academic/IELTS-Writing/Task-1/samples-rationale.md](Academic/IELTS-Writing/Task-1/samples-rationale.md)
+- Brainstorm & Outline: [pipelines/task-1-academic/Brainstorm-Outline.md](pipelines/task-1-academic/Brainstorm-Outline.md)
+- Evaluate & Improve: [pipelines/task-1-academic/Evaluate-Improve.md](pipelines/task-1-academic/Evaluate-Improve.md)
+- Vocabulary & Grammar: [pipelines/task-1-academic/Vocabulary-Grammar.md](pipelines/task-1-academic/Vocab-Grammar.md)
+- Writing Samples & Rationale: [pipelines/task-1-academic/Writing-Samples-Rationale.md](pipelines/task-1-academic/Samples-Rationale.md)
 
 ### Task 2 (Academic)
 
-- Brainstorm & Outline: [Academic/IELTS-Writing/Task-2/brainstorm-outline.md](Academic/IELTS-Writing/Task-2/brainstorm-outline.md)
-- Evaluate & Improve: [Academic/IELTS-Writing/Task-2/evaluate-improve.md](Academic/IELTS-Writing/Task-2/evaluate-improve.md)
-- Vocabulary & Grammar: [Academic/IELTS-Writing/Task-2/vocab-grammar.md](Academic/IELTS-Writing/Task-2/vocab-grammar.md)
-- Writing Samples & Rationale: [Academic/IELTS-Writing/Task-2/samples-rationale.md](Academic/IELTS-Writing/Task-2/samples-rationale.md)
+- Brainstorm & Outline: [pipelines/task-2-academic/Brainstorm-Outline.md](pipelines/task-2-academic/Brainstorm-Outline.md)
+- Evaluate & Improve: [pipelines/task-2-academic/Evaluate-Improve.md](pipelines/task-2-academic/Evaluate-Improve.md)
+- Vocabulary & Grammar: [pipelines/task-2-academic/Vocabulary-Grammar.md](pipelines/task-2-academic/Vocab-Grammar.md)
+- Writing Samples & Rationale: [pipelines/task-2-academic/Writing-Samples-Rationale.md](pipelines/task-2-academic/Samples-Rationale.md)
 
 ## Core Principles (applies to all workflows)
 
