@@ -24,7 +24,7 @@ IELTS-Writing/
 └── README.md
 ```
 
-## How to use
+## Usage guidelines
 
 1) Planning: Open the relevant Brainstorm & Outline file; Follow intake, timing, and template steps to sketch your plan.
 2) Drafting: Write from your outline; Keep Task Response coverage and paragraph mapping in mind.
@@ -37,3 +37,4 @@ IELTS-Writing/
 - No full answers before the student submits their own draft.
 - All guidance aligns to IELTS Academic criteria: Task Response, Coherence & Cohesion, Lexical Resource, Grammatical Range & Accuracy.
 - Stay evidence-based (quote sentences/phrases when critiquing) and task-specific (no generic advice).
+- Staying on track: visuals/processes/maps for Task 1; argumentative/academic essays for Task 2.
