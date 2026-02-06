@@ -10,6 +10,7 @@
   - Band 8 sample (~250–280 words)
   - Band 9 sample (~250–280 words)
 - Follow each snippet with a brief rationale explaining why it meets the band: Task Response, Coherence/Cohesion, Lexical Resource, Grammatical Range/Accuracy.
+- You may search for existing model essays; If there is none suitable, create your own; Be sure to provide accurate data and citations for any sourced material.
 - Do not supply a full response before the student submits their draft.
 
 ### How to present rationale
